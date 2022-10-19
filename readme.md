@@ -26,7 +26,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
   👉 How to customize Tailwind CSS<br>
   👉 How to read Documentation
 
-### Time Taken to Complete this Project:- 15 Hours
+### Time Taken to Complete this Project:- 12 Hours
 
 ### 📬 Connect With Me
 
